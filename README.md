@@ -1,2 +1,2 @@
 # Project-Alpha
-Oops, I accidentally deleted the config file. Good thing commits are forever!
+Oops, I accidentally deleted the dependency file. Good thing commits are forever!
