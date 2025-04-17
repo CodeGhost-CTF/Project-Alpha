@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie List</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .movie-list { max-width: 600px; margin: 20px auto; }
+        li { padding: 10px; border-bottom: 1px solid #eee; }
+    </style>
+</head>
+<body>
+    <div class="movie-list">
+        <h2>Popular Movies</h2>
+        <ul>
+            <li>The Matrix (1999) - Sci-Fi</li>
+            <li>Inception (2010) - Action/Sci-Fi</li>
+            <li>Pulp Fiction (1994) - Crime/Drama</li>
+            <li>The Dark Knight (2008) - Action/Crime</li>
+            <li>Forrest Gump (1994) - Drama/Romance</li>
+            <li>Interstellar (2014) - Sci-Fi/Adventure</li>
+            <li>Gladiator (2000) - Action/Drama</li>
+            <li>The Godfather (1972) - Crime/Drama</li>
+        </ul>
+    </div>
+</body>
+</html>
